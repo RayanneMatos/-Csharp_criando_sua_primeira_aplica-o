@@ -1,0 +1,14 @@
+/home/rayanne/alura/csharp/primeira_aplicacao/bin/Debug/net8.0/PrimeiroProjeto
+/home/rayanne/alura/csharp/primeira_aplicacao/bin/Debug/net8.0/PrimeiroProjeto.deps.json
+/home/rayanne/alura/csharp/primeira_aplicacao/bin/Debug/net8.0/PrimeiroProjeto.runtimeconfig.json
+/home/rayanne/alura/csharp/primeira_aplicacao/bin/Debug/net8.0/PrimeiroProjeto.dll
+/home/rayanne/alura/csharp/primeira_aplicacao/bin/Debug/net8.0/PrimeiroProjeto.pdb
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.dll
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/refint/PrimeiroProjeto.dll
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.pdb
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/rayanne/alura/csharp/primeira_aplicacao/obj/Debug/net8.0/ref/PrimeiroProjeto.dll
